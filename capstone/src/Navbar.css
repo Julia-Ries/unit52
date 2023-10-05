@@ -1,0 +1,18 @@
+/* NavBar.css */
+.Navigation {
+    background-color:lightblue; /* Change to your preferred background color */
+    color: #ffffff; /* Change to your preferred text color */
+    padding: 10px;
+  }
+  
+  .Navigation a {
+    color: black; /* Change to your preferred link color */
+    margin-left: 15px; /* Adjust spacing between links */
+  }
+  
+  .Navigation a:hover {
+    text-decoration: none; /* Remove underline on hover */
+    color: #f8f9fa; /* Change to your preferred hover color */
+  }
+  
+  
